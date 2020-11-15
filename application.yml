@@ -1,0 +1,3 @@
+logging.level:
+  de: TRACE
+  org.springframework: DEBUG
